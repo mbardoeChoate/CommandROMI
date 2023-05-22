@@ -1,4 +1,19 @@
 # Starter Robot Code
+
+# Start the robot with
+# python robot.py sim --ws-client
+
+# Load in dependencies
+# pip install robotpy==2022.4.8
+# pip install robotpy'[commands2,sim]'
+# pip install robotpy-romi
+
+# add tests
+# python robot.py add-tests
+
+# Run tests
+# python robot.py test
+
 import os
 
 import wpilib
